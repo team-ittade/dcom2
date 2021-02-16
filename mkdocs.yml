@@ -8,8 +8,13 @@ theme:
     - navigation.instant
 
 nav:
-  - DCOM: index.md
-  - Trabajo grupal: trabajo.md
+  - Evaluación:
+    - general: index.md
+    - Trabajo grupal: trabajo.md
+  - Tema 1: tema-1.md
+
+repo_name: ittade-5/dcom-2
+repo_url: https://campusvirtual.uva.es/course/view.php?id=34230
 
 extra_css:
     - css/colors.css
