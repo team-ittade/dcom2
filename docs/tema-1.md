@@ -143,13 +143,21 @@ Una línea de producto es un grupo de productos estrechamente relacionados dentr
 !!! example "Formas tridimensionales"
     ![img](images/tema-1/ejemplos-formas-tridimensionales.png)
 
-!!! "Prohibiciones"
+!!! danger "Prohibiciones"
     - **Absolutas:** no se pueden registrar como marcas si se componen de signos genéricos (`A`, `rojo`, una bandera de España). Tampoco se pueden registrar nombres contrarios a la ley (organizaciones terroristas).
     - **Relativas:** no se pueden registrar como marcas aquellos que se parezcan a otras marcas ya registradas (fonética, conceptual, etc.).
 
-!!! curioso
+!!! abstract "Curiosidades"
     - El registro depende del registrador. *Ej: existe el licor de hierbas `Hijo Puta`*
     - Una empresa quiso crear una marca de móviles llamada `pera`. Se denegó porque se parece conceptualmente a `apple`.
+
+    - Se puede registrar el nombre, el nombre con el símbolo y el gráfico por separado. Si no registro el gráfico por separado pero lo registro junto con el nombre, otra marca puede registrarlo con su propio nombre.
+    - ¿Se puede usar una marca famosa que ya no se usa? Sí, si no están registradas y no está en ningún proceso judicial.
+    - La marca hay que registrarla en los sectores en los que opera y también en los que pretende operar en un futuro.
+    - Se debe registrar la marca en todos los países en los que se pretende operar. *Ej: corona se tuvo que cambiar de nombre a coronita en España porque ya estaba registrado*
+    - La ley de registros varía de un país para otro.
+    - Nombres genéricos como `home` al ser genérico no pueden registrarse, pero sí pueden registrarse junto a un logo (registro mixto).
+    - El uso de TM o R no es obligatorio ponerlo en la marca.
 
 ### Conceptos básicos de la marca
 
@@ -164,3 +172,32 @@ Una línea de producto es un grupo de productos estrechamente relacionados dentr
 3. **Protegible** a nivel legal
 4. **Adaptable:** flexible y actualizable
 5. **Transferible** a otras categorías de producto y a través de fronteras geográficas. *Ej: la marca de comida para gatos `miau` se tuvo que cambiar por `alpha` en el mercado internacional*
+
+### Estrategia de diferenciación
+
+**Ventajas competitivas:** **bajo coste** (permite bajar el precio final) y **diferenciación** (producto superior, con algún atributo único). Eres mejor si vendes un producto a menor precio o si vendes un producto superior.
+
+Los recursos más críticos que pueden ser una fuente de **ventaja competitiva** serán aquellos:
+
+- Únicos
+- Difíciles de imitar
+- Susceptibles de múltiples usos
+- No sustituibles
+- No sujetos a depreciación
+- Relevantes para la toma de decisiones del consumidor
+
+❓ {--Si cumplen buena parte de estos criterios se registra como una marca.--} ❓
+
+### La marca como fuente de diferenciación
+
+- Crear una marca existe una fuerte inversión.
+- Es menos costoso que un fabricante haga un producto y luego otra empresa le pone su marca. *Ej: fabricación en Taiwán*
+- **El poder se encuentra en las empresasque tienen una marca reconocida** porque son fácilmente sustituibles por productos más baratos fabricados en otros lugares.
+
+### Capital de marca
+
+**Conjunto de activos y pasivos vinculados a la marca que aumentna o disminuyen el valor aportado por el producto o servicio ofrecido a los clientes.**
+
+A veces es muy relevante. *Ej: cuando Ford compró Jaguar el 16% de su valor eran activos físicos, el resto era capital de marca*
+
+**Top of the Mind:** marca más conocida dentro de una categoría.
