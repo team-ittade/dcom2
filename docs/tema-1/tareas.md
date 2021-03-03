@@ -11,3 +11,4 @@
 - Extensión máxima: 1 Folio por las 2 caras
 - Mejor calidad a cantidad
 - Deadline: `2020-03-14`
+- Cada uno entrega su parte individualmente en la [tarea](https://campusvirtual.uva.es/mod/assign/view.php?id=1035467){: .elink}.
