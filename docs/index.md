@@ -4,7 +4,9 @@
 - Temas 2 y 3: Víctor temprano garcía (vtemprano@eco.uva.es)
 - Temas 4 y 5: Rebeca San José Cabezudo (rebecasc@eco.uva.es)
 
-- [Link webex](https://universidaddevalladolid.webex.com/meet/ana){: .elink}
+- Links webex
+    - [Ana (temas 1 y 5)](https://universidaddevalladolid.webex.com/meet/ana){: .elink}
+    - [Víctor (temas 2 y 3)](https://universidaddevalladolid.webex.com/meet/victor.temprano){: .elink}
 - [Guía docente](https://campusvirtual.uva.es/pluginfile.php/1676292/mod_resource/content/1/Proyecto.Gu%C3%ADa%20Docente%20DCII%20ADE.20.21.pdf){: .elink}
 - [Campus virtual](https://campusvirtual.uva.es/course/view.php?id=34230){: .elink}
 
