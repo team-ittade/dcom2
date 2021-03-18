@@ -125,3 +125,98 @@ Una empresa fabricante de maquinaria herramienta para el cuidado de jardines ha 
 |Plan C|10.000|4.000|0,25|1.000|
 
 La mejor opción es el plan B (tiene un mayor beneficio esperado). El beneficio real sería $2.000$
+
+## `Problema 7`
+
+Con la siguiente lista de precios: $0$, $5.000$, $10.000$, $15.000$, $20.000$ y $25.000$ u.m., la empresa SOSAN realizó una investigación de mercados para conocer cuál es aproximadamente la banda de precios aceptable y el precio que goza de mayor aceptación. Se sabe que los precios de $5.000$ u.m. y $25.000$ u.m. los rechazaría toda la muestra, el primero por ser muy bajo y el segundo por ser muy alto. El 60% aceptan el precio de $10.000$ u.m., el 75% el de $15.000$ u.m y el de $20.000$ u.m. lo acepta el 85% por no tener un precio excesivamente bajo. Por otro lado, el 20% manifiesta que rechazaría un precio de $10.000$ u.m, el 25% rechazaría el de $15.000$ u.m y un 40% el de $20.000$ u.m., en este caso por ser excesivamente alto.
+
+- A: porcentaje de rechazo por precio excesivamente **alto**
+- B: porcentaje de rechazo por precio excesivamente **bajo**
+
+|P|B|A|Niv. Acept.<br>(1-B-A)|
+|--|:--:|:--:|:--:|
+|0|100%|0%|0%|
+|5.000|**100%**{.magenta}|0%|0%|
+|10.000|**40%**{.magenta}|20%|40%|
+|15.000 {.green}|25% {.green}|25% {.green}|50% {.green}|
+|20.000|15%|**40%**{.magenta}|45%|
+|25.000|0%|**100%**{.magenta}|0%|
+
+Para escoger al mínimo buscamos qué precio tendría un nivel de aceptación del 50% por ser bajo:
+
+$$
+\begin{align*}
+& |10.000-5.000| \,\rule[2.5pt]{16pt}{0.5pt}\, |40-60|\\
+& |10.000-\;\;\;x\;\;\;| \,\rule[2.5pt]{16pt}{0.5pt}\, |40-50|
+\end{align*}
+$$
+
+$\dfrac{500\cdot10}{60}=10.000-x→x=9.166,67$
+
+Para escoger al máximo buscamos qué precio tendría un nivel de aceptación del 50% por ser alto:
+
+$$
+\begin{align*}
+& |25.000-20.000| \,\rule[2.5pt]{16pt}{0.5pt}\, |100-40|\\
+& |25.000-\;\;\;\;x\;\;\;\;| \,\rule[2.5pt]{16pt}{0.5pt}\, |100-50|
+\end{align*}
+$$
+
+$x=20.833,33$
+
+**¿Qué precio fijaríamos?** 15.000
+
+## `Problema 8`
+
+La empresa SINSU quiere conocer cuál es el precio más adecuado para un nuevo desodorante que va a lanzar al mercado. Para la determinación de tal precio, se fija en dos empresas competidoras, X e Y, que actualmente venden sus respectivas marcas a un precio de 8 y 12 euros, respectivamente. La empresa valora con una importancia relativa de 0,5, 0,3 y 0,2 los atributos durabilidad, olor y envase. La puntuación dada por la muestra elegida a cada atributo para cada desodorante es la siguiente:
+
+![img](../images/tema-2/tabla-problema-8.png)
+
+**Calcule:**
+
+1. El precio que se ajusta a la calidad percibida de la marca SINSU de desodorante
+2. El precio con el que la empresa SINSU igualaría o superaría el valor percibido por los consumidores para la marcas X e Y.
+
+|Atributo|Importancia|Media|
+|--|--|
+|Durabilidad|0.5|0.33|
+|Olor|0.3|0.33|
+|Envase|0.2|0.33|
+
+![img](../images/tema-2/problema-8-solucion.png)
+
+- Evaluación de calidad: sumar cada atributo por su importancia relativa
+- Índice de evaluación: evaluación de la calidad / media de la evaluación de la calidad
+- Precio ajustado a calidad: Índice de evaluación \* media de los precios
+- Valor percibido: Precio ajustado / Precio real
+
+Para nuestra marca podemos fijal un valor percibido (mayor o igual al resto de valores percibidos) y calculamos el precio real
+
+Precio con el que igualaría o superaría el valor percibido de X e Y: $10,65/1,256=8,49$
+
+## `Problema 10`
+
+Para la próxima temporada, CKIDS pretende comercializar polos de elevada calidad. Se sabe que los dos competidores más directos (A y B) fijan un precio para los polos de 34 u.m. y 37 u.m. respectivamente. Con el fin de establecer el precio más adecuado para los nuevos polos, se ha realizado un estudio de mercado entre los padres, obteniéndose los siguientes resultados.
+
+![img](../images/tema-2/tabla-problema-10.png)
+
+Además, los responsables de marketing han valorado la calidad de las marcas A y B con 96 y 100 puntos, respectivamente. Cuál será el precio más adecuado y los precios máximos y mínimo para el polo según el método de la banda de precios aceptable? ¿Sería este precio el más adecuado para que sea la marca de mejor relación calidad-precio según el método del valor percibido, si se sabe que se ha valorado la calidad de sus polos con 97 puntos?
+
+|Precio|B|A|Niv. Acept.|
+|24|100|0|0|
+|27|100|0|0|
+|30|90|0|10|
+|33|**75**{.magenta}|0|25|
+|36|**20**{.magenta}|5|75|
+|**39**{.green}|**5**{.green}|**15**{.green}|**80**{.green}|
+|42|0|**30**{.magenta}|70|
+|45|0|**75**{.magenta}|25|
+|48|0|95|5|
+|51|0|100|0|
+
+![img](../images/tema-2/problema-10-solucion-valor-percibido.png)
+
+Banda de precios aceptable: entre 34,5 y 43,5
+
+El precio más aceptado haría la relación más desfavorable: $35,252/29=0,904$<br>
+Para ser la marca de mayor valor percibido: $35,252/1,026=34,359$
