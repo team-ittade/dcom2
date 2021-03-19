@@ -16,7 +16,7 @@ $BAII=-360p^2+203.200p-4.120.000$
 
 Beneficio máximo: $\dfrac{dBAII}{dp}=-720p+203.200=0→p=282,2$
 
-Umbral de rentabilidad: $Qp=Q\cdot CV+CF→Q=\dfrac{CF}{p}-CF_U=\dfrac{200.000}{282.2}-20=762,7$
+Umbral de rentabilidad: $Qp=Q\cdot CV+CF→Q=\dfrac{CF}{p}-CV_U=\dfrac{200.000}{282.2}-20=762,7$
 
 **No calcular el umbral de rentabilidad directamente resolviendo la ecuación con la calculadora, sale mal.**
 {.red}
@@ -178,7 +178,7 @@ La empresa SINSU quiere conocer cuál es el precio más adecuado para un nuevo d
 2. El precio con el que la empresa SINSU igualaría o superaría el valor percibido por los consumidores para la marcas X e Y.
 
 |Atributo|Importancia|Media|
-|--|--|
+|--|--|--|
 |Durabilidad|0.5|0.33|
 |Olor|0.3|0.33|
 |Envase|0.2|0.33|
@@ -203,6 +203,7 @@ Para la próxima temporada, CKIDS pretende comercializar polos de elevada calida
 Además, los responsables de marketing han valorado la calidad de las marcas A y B con 96 y 100 puntos, respectivamente. Cuál será el precio más adecuado y los precios máximos y mínimo para el polo según el método de la banda de precios aceptable? ¿Sería este precio el más adecuado para que sea la marca de mejor relación calidad-precio según el método del valor percibido, si se sabe que se ha valorado la calidad de sus polos con 97 puntos?
 
 |Precio|B|A|Niv. Acept.|
+|--|--|--|--|
 |24|100|0|0|
 |27|100|0|0|
 |30|90|0|10|
